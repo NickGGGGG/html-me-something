@@ -1,4 +1,62 @@
-span{
+
+
+.em{
     font-style: italic;
-    color: red;
+    color: gold;
+    font-family: 'Times New Roman', Times, serif;
+}
+#budget{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+body {
+    background-color: lightcoral;
+    color: aqua; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+.hometown{
+    color: lightgreen;
+    text-align: center;
+}
+#works{
+    color: dodgerblue;
+    text-align: center;
+}
+.bold{
+    font-weight: bold;
+    color: lightcyan;
+}
+a:hover{
+    font-weight: bold;
+    color: black;
+}
+
+.Union{
+    text-align: center;
+    border: 5px aqua solid;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    margin: 0px;
+}
+.Union_fig{
+    text-align: center;
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+}
+figcaption{
+    text-align: center;
+
+}
+body main p{
+    margin-right: 100px;
+    margin-left: 100px;
+}
+footer p{
+    text-align: right;
+}
+body header p{
+    margin-right: 100px;
+    margin-left: 100px;
 }
